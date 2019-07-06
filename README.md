@@ -1,2 +1,2 @@
 # Data Structures
-Linked List Data Structures using JavaScript
+Linked List, Stack, Queue Data Structures using JavaScript
